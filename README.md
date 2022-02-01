@@ -12,8 +12,13 @@ or
 ```
 pip install -r requirements.txt
 ```
-Then you can enter in your terminal :
+Then you can enter in your terminal to train the model :
+```
+python main.py
+```
+and then you can run in your terminal :
 ```
 python genderprediction.py
 ```
+to run analyze an image.
 
