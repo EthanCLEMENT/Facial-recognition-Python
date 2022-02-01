@@ -11,7 +11,7 @@ pip install BeautifulSoup, TensorFlow, cv2, sklearn, faceapp
 or
 ```
 pip install -r requirements.txt
-
+```
 Then you can enter in your terminal :
 ```
 python genderprediction.py
